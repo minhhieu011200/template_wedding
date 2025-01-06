@@ -1,0 +1,13 @@
+section:nth-of-type(odd) {
+    background-color: #faf8f7;
+    /* Example style for odd sections */
+}
+
+section:nth-of-type(even) {
+    background-color: #ffffff;
+    /* Example style for odd sections */
+}
+
+.text-red {
+    color: #C14545 !important;
+}
