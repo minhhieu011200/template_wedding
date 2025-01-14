@@ -67,15 +67,14 @@ h3,
 h4,
 h5,
 h6 {
-    margin-top: 0;
-    margin-bottom: .5rem;
+    margin: 0;
     font-weight: 500;
-    line-height: 1.2
+    line-height: 1.8
 }
 
 .h2,
 h2 {
-    font-size: calc(1.325rem + .9vw)
+    font-size: 2rem
 }
 
 @media (min-width:1200px) {
@@ -632,7 +631,7 @@ iframe {
 }
 
 .fw-bold {
-    font-weight: 700 !important
+    font-weight: 600 !important
 }
 
 .text-center {

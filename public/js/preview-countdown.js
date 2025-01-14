@@ -1,4 +1,4 @@
-var countDownDate = new Date('2025-03-23T18:00:00'); // Set the specific date and time
+var countDownDate = new Date('2025-03-23T11:00:00'); // Set the specific date and time
 var countDownDateTime = countDownDate.getTime(), x = setInterval(function () {
     var e = new Date().getTime(),
         $ = countDownDate - e,

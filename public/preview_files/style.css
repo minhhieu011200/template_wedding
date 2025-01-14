@@ -396,14 +396,7 @@ img {
     }
 }
 
-.static-hero .slide-title h2 {
-    font-size: 100px;
-    font-weight: 500;
-    line-height: 60px;
-    margin: 10px 0 35px;
-    color: #fff;
-    text-transform: uppercase
-}
+
 
 @media (max-width: 1199px) {
     .static-hero {
@@ -512,7 +505,7 @@ img {
 }
 
 .static-hero .slide-title h2 {
-    color: #101010;
+    color: #4a5448;
     text-align: center;
     font-size: 90px;
     font-style: normal;
@@ -571,7 +564,7 @@ img {
 }
 
 .static-hero .slide-text p {
-    color: #5c5c5c;
+    color: #6e4949;
     margin: 0;
     font-size: 25px
 }
@@ -640,7 +633,7 @@ img {
     font-size: 4rem;
     line-height: 1em;
     padding-top: 15px;
-    color: #657150
+    color: #916464
 }
 
 @media (max-width: 1300px) {
@@ -656,7 +649,7 @@ img {
 }
 
 .static-hero .wpo-wedding-date #clock span {
-    color: #5c5c5c;
+    color: #6e4949;
     font-size: 20px
 }
 
